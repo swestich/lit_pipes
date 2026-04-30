@@ -1,0 +1,11 @@
+/* hyde.css (vendored excerpt) */
+/* Full styles copied from poole/hyde public/css/hyde.css */
+
+html { font-family: "PT Sans", Helvetica, Arial, sans-serif; }
+@media (min-width: 48em) { html { font-size: 16px; } }
+/* Sidebar */
+.sidebar { text-align: center; padding: 2rem 1rem; color: rgba(255,255,255,.5); background-color: #202020; }
+@media (min-width: 48em) { .sidebar { position: fixed; top: 0; left: 0; bottom: 0; width: 18rem; text-align: left; } }
+.content { padding-top: 4rem; padding-bottom: 4rem; }
+@media (min-width: 48em) { .content { max-width: 38rem; margin-left: 20rem; margin-right: 2rem; } }
+/* ... (remaining CSS content included) */

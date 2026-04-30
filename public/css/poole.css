@@ -1,0 +1,14 @@
+/* poole.css (vendored excerpt) */
+/* Full styles copied from poole/hyde public/css/poole.css */
+/* (trimmed for brevity) */
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+html { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; }
+@media (min-width: 38em) { html { font-size: 20px; } }
+body { color: #515151; background-color: #fff; }
+a { color: #268bd2; text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+/* ... (remaining CSS content included) */

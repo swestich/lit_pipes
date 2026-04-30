@@ -3,7 +3,11 @@ url: https://lit_pipes.github.io  # the base hostname and protocol for your site
 baseurl: /lit_pipes/      # place folder name if the site is served in a subfolder
 title: Lit Pipes
 description: 
-theme: minima
+# Use a remote theme hosted on GitHub (poole/hyde)
+# See: https://github.com/poole/hyde
+remote_theme: poole/hyde
 markdown: kramdown
 author: Lit Pipes
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme

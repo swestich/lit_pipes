@@ -3,6 +3,5 @@ layout: home
 title: Home
 ---
 
-Welcome to Lit Pipes — a GitHub Pages site powered by the `minima` theme.
+<!-- Home page: the `home` layout will display site title and description -->
 
-This is your site homepage. Edit this `index.md` to customize the landing content.
